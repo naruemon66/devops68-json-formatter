@@ -1,5 +1,5 @@
 {
-  "name": "json-formatter",
+  "name": "devops68-json-formatter",
   "version": "1.0.0",
   "description": "API to format and validate JSON",
   "main": "index.js",
